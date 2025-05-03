@@ -1,8 +1,7 @@
 # Python-Principiante
 
-¡Por supuesto! Aquí tienes un README detallado para un proyecto de Python dirigido a principiantes:
 
----
+
 
 # 🚀 Proyecto de Python para Principiantes  
 
